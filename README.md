@@ -1,13 +1,13 @@
-# html game by skitonix :D
-a game i made i gess
+# netrunner
+ by skitonix :D
 
-wellcome to uhh i have not came up with a name for this game yet as it is still in its beta version but you can play it
+wellcome to netrunner
 
-features
+the games theme is a cyberpunk si-fi world
 
-geting a job
-working
-stealing cargo
-selling cargo
-hacking
-and uhh thatss it but uhh hey its fun try it out for yourself 
+the games story is your a netrunner/hacker and you got hacked
+your biochip has a virus that you cant remove
+your goal in this game is to save yourself
+
+so far the game will only be a sanbox game
+but there will be more
