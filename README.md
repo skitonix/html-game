@@ -1,4 +1,4 @@
-# netrunner
+# Netrunner
 By skitonix :D
 
 Welcome to netrunner
