@@ -1,13 +1,13 @@
 # netrunner
- by skitonix :D
+By skitonix :D
 
-wellcome to netrunner
+Welcome to netrunner
 
-the games theme is a cyberpunk si-fi world
+The game's theme is a cyberpunk sci-fi world
 
-the games story is your a netrunner/hacker and you got hacked
-your biochip has a virus that you cant remove
-your goal in this game is to save yourself
+The game's story is that you're a netrunner and you got hacked
+Your biochip has a virus that you can't remove
+Your goal in this game is to save yourself
 
-so far the game will only be a sanbox game
-but there will be more
+So far the game will only be a sandbox game
+But there will be updates to add a story and more sprites
