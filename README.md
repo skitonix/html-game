@@ -1,5 +1,5 @@
 # Netrunner
-By skitonix :D
+By onix dev team
 
 Welcome to netrunner
 
